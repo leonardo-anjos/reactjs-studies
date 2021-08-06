@@ -1,0 +1,11 @@
+.select-song {
+  text-align: center;
+  font-weight: bold;
+}
+
+.selected-song {
+  text-align: center;
+  margin-top: 20%;
+}
+
+
